@@ -1,0 +1,17 @@
+This directory contains the State Diagram state machine framework.
+
+State Diagram is distributed in pure source code form without any
+build mechanics. It is completely up to users to build State Diagram 
+according to their needs and preferences.
+
+State Diagram was built and tested using GCC 13.2 with option 
+--std=c++2a. Attempting to compile State Diagram with some GCC versions
+earlier than 13.2 is known to have triggered compiler bugs, certainly 
+so with GCC versions earlier than 9.1.
+
+It is unknown whether State Diagram can still be compiled with current
+versions of Clang.
+
+State Diagram is free software. See the file whose name is LICENSE
+for terms of use. See the file whose name is RELEASES for release
+notes.
